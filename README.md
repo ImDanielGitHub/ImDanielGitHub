@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typesript, Djngo, C**
 
-- 👨‍💻 All of my projects are available at [https://apps.anekedigital.com/](https://apps.anekedigital.com/)
+- 👨‍💻 Check out my app at [https://apps.anekedigital.com/](https://apps.anekedigital.com/)
 
 - 💬 Ask me about **Machine Learing**
 
