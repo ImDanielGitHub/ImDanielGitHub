@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Aneke</h1>
 <h3 align="center">Passionate about AI Applications for Brain-Computer Interfaces.</h3>
-
-<img src="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv" alt="Machine Learning" align="center" />
-
 ---
 
 ### 🔭 Current Projects
