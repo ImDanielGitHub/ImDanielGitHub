@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Aneke</h1>
 <h3 align="center">Passionate about AI Applications for Brain-Computer Interfaces.</h3>
 
-<iframe src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv">via GIPHY</a></p>
+<a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imdanielgithub&label=Profile%20views&color=0e75b6&style=flat" alt="imdanielgithub" /> </p>
 
